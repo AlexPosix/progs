@@ -3,6 +3,7 @@
 #       Copyright by Vaskovskij 2014 																 
 #----------------------------------------------------------------------------------------------------
 # This script parse postfix's log file and drop users who try to make unauthorized attempts to login.
+# Run it using cron and forget about brootforcers.  
 
 
 
